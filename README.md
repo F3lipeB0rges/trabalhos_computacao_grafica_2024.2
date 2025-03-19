@@ -1,1 +1,1 @@
-# trabalhos_computacao_grafica_2024.2
+# Repositório destinado aos trabalhos da matéria de Computação Gráfica
